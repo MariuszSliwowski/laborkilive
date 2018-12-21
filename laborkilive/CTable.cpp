@@ -13,4 +13,5 @@ void CTable<T>::vAdd(int iVal)
 {
 	//*pc_test += iVal;
 }//void CTable<T>::vAdd(int iVal)
-template class CTable<int>;template class CTable<float>;
+template class CTable<int>;
+template class CTable<float>;
