@@ -14,7 +14,7 @@ CPunkt::CPunkt(CPunkt & other)
 {
 	
 
-			x = new int(*other.x);
+	x = new int(*other.x);
 	y = new int(*other.y);
 	
 }
